@@ -223,7 +223,7 @@
             }
             
             #portada4 {
-                height: 70vh;
+                height: 80vh;
                 margin-bottom: 50px;
                 margin-top: 50px;
                 background-image: url('./img/fondo.jpg');
@@ -239,7 +239,7 @@
             .imagen-texto {
                 color: #e90202;
                 text-align: center;
-                margin-top: 80px;
+                margin-top: 60px;
                 text-shadow: 2px 2px 2px #6a0303, 2px 2px 2px #080808;
             }
             
