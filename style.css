@@ -184,7 +184,7 @@
             }
             
             #portada1 {
-                height: 50vh;
+                height: 60vh;
                 background-image: url('https://nibiru.com.uy/img/blog/diferencia-entre-ingenieria-en-sistemas-y-ingenieria-de-software.jpg');
                 background-size: cover;
                 background-position: center;
@@ -195,7 +195,7 @@
             }
             
             #portada2 {
-                height: 50vh;
+                height: 60vh;
                 margin-bottom: 50px;
                 margin-top: 50px;
                 background-image: url('./img/fondo.jpg');
@@ -223,7 +223,7 @@
             }
             
             #portada4 {
-                height: 80vh;
+                height: 70vh;
                 margin-bottom: 50px;
                 margin-top: 50px;
                 background-image: url('./img/fondo.jpg');
